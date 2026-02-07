@@ -582,6 +582,15 @@ def main():
         "https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
         "http://106.53.99.30/2025.txt",
         "https://raw.githubusercontent.com/Heiwk/iptv67/refs/heads/main/iptv.m3u",
+        "https://raw.githubusercontent.com/pattonme/iptv-service/refs/heads/main/dist/iptv-valid.m3u",
+        "https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt",
+        "https://raw.githubusercontent.com/luochen1975/IPTV_SuperB/refs/heads/main/output/live_ipv4.txt",
+        "https://raw.githubusercontent.com/luochen1975/IPTV_SuperB/refs/heads/main/output/live_ipv6.txt",
+        "https://raw.githubusercontent.com/luochen1975/CTVLive2/refs/heads/main/others_output.txt",
+        "https://raw.githubusercontent.com/luochen1975/CTVLive2/refs/heads/main/merged_output.txt",
+        "https://raw.githubusercontent.com/luochen1975/isw866-iptv/refs/heads/main/merged_playlist.m3u",
+
+    
     ]
     
     user_sources = [
